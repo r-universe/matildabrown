@@ -8,3 +8,8 @@
 	url = https://github.com/matildabrown/rwcvp
 	shallow = true
 	registered = true
+[submodule "rWCVPdata"]
+	path = rWCVPdata
+	url = https://github.com/matildabrown/rWCVPdata
+	shallow = true
+	registered = false
