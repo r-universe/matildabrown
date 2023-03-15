@@ -1,5 +1,9 @@
 [
   {
+    "package": "hyperoverlap",
+    "oncran": true
+  },
+  {
     "package": "rWCVP",
     "oncran": true
   }
