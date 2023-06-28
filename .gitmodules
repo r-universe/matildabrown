@@ -1,20 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/matildabrown/hyperoverlap
-	shallow = true
-	registered = true
 [submodule "rWCVP"]
 	path = rWCVP
 	url = https://github.com/matildabrown/rwcvp
-	shallow = true
-	registered = true
 [submodule "rWCVPdata"]
 	path = rWCVPdata
 	url = https://github.com/matildabrown/rWCVPdata
-	shallow = true
 	registered = false
