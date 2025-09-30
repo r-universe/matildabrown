@@ -8,3 +8,7 @@
 [submodule "rWCVP"]
 	path = rWCVP
 	url = https://github.com/matildabrown/rwcvp
+[submodule "rWCVPdata"]
+	path = rWCVPdata
+	url = https://github.com/matildabrown/rWCVPdata
+	registered = false
