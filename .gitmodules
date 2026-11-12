@@ -5,3 +5,6 @@
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/matildabrown/hyperoverlap
+[submodule "rWCVP"]
+	path = rWCVP
+	url = https://github.com/matildabrown/rwcvp
